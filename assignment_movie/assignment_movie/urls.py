@@ -6,7 +6,7 @@ from rest_framework.schemas import get_schema_view
 
 router = routers.DefaultRouter()
 router.register(r'movies', views.MovieViewSet)
-router.register(r'genres', views.GenreViewSet)
+# router.register(r'genres', views.GenreViewSet)
 router.register(r'users', views.UserViewSet)
 # router.register(r'groups', views.GroupViewSet)
 
