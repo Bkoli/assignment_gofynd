@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68ae7a8a-bb95-40ea-84cf-5aa6d2ddc5cd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_movie/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_movie/api/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_movie/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_movie/api/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_movie/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_movie/api/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_movie/assignment_movie/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_movie/assignment_movie/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="68ae7a8a-bb95-40ea-84cf-5aa6d2ddc5cd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,10 +159,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1318" />
-    <option name="height" value="688" />
+    <option name="x" value="-7" />
+    <option name="width" value="1312" />
+    <option name="height" value="687" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -293,9 +286,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="20" width="1318" height="688" extended-state="0" />
+    <frame x="-7" y="0" width="1312" height="687" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22890624" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2299843" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -306,7 +299,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.4036036" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.40433213" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
